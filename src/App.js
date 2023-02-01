@@ -1,5 +1,5 @@
 import "./App.css";
-import MultipleRender from "./components/functional/conditionalRendering/MultipleRender";
+import MultipleRender from "./components/class/conditionalRendering/MultipleRender";
 
 function App() {
   return (
